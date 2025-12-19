@@ -106,7 +106,3 @@ crewai install
 crewai run
 
 ```
-
----
-
-**Gostaria que eu gerasse um exemplo de código simples de uma `Crew` (Equipe) utilizando essa estrutura YAML mencionada?**
